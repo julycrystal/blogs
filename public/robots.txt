@@ -1,5 +1,3 @@
-Sitemap: https://julycrystal.vercel.app/sitemap.xml
-
 User-agent: *
-Allow: /
-Disallow: /api/*
+Allow: /*
+Host: developer-portfolio-julycrystal.vercel.app
