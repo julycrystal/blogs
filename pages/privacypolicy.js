@@ -104,11 +104,11 @@ export default function PrivacyPolicy() {
                 <strong className="dark:text-gray-100">Website</strong> refers to Blog, accessible
                 from{' '}
                 <a
-                  href="https://musing.vercel.app/"
+                  href="https://julycrystal.vercel.app/"
                   rel="external nofollow noopener noreferrer"
                   target="_blank"
                 >
-                  https://musing.vercel.app/
+                  https://julycrystal.vercel.app/
                 </a>
               </p>
             </li>

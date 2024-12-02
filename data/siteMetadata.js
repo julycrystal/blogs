@@ -1,12 +1,12 @@
 const siteMetadata = {
   title: 'Blog | Julycrystal',
   author: 'Julycrystal',
-  headerTitle: 'Mere Musings',
-  description: 'My personal blog where I share my musings',
+  headerTitle: 'Blogs',
+  description: 'My personal blog',
   snippets: 'Reuseable code snippets collected by Julycrystal',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://musing.vercel.app',
+  siteUrl: 'https://julycrystal.vercel.app',
   siteRepo: 'https://github.com/julycrystal/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
