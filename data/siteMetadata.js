@@ -1,9 +1,9 @@
 const siteMetadata = {
-  title: 'Blog | Parth Desai',
-  author: 'Parth Desai',
+  title: 'Blog | Julycrystal',
+  author: 'Julycrystal',
   headerTitle: 'Mere Musings',
   description: 'My personal blog where I share my musings',
-  snippets: 'Reuseable code snippets collected by Parth',
+  snippets: 'Reuseable code snippets collected by Julycrystal',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://musing.vercel.app',
@@ -11,11 +11,10 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'desaiparth2000@gmail.com',
   github: 'https://github.com/julycrystal',
-  twitter: 'https://twitter.com/_ParthDesai_',
-  linkedin: 'https://www.linkedin.com/in/parth-desai-2bb1b0160/',
-  website: 'https://parthdesai.vercel.app',
+  twitter: 'https://twitter.com/_julycrystal_',
+  linkedin: 'https://www.linkedin.com/in/julycrystal/',
+  website: 'https://julycrystal.vercel.app',
   locale: 'en-US',
   analytics: {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
@@ -46,7 +45,7 @@ const siteMetadata = {
     },
   },
   socialAccount: {
-    twitter: '_ParthDesai_',
+    twitter: '_julycrystal_',
   },
 }
 

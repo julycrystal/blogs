@@ -77,34 +77,34 @@ export default function Now(currentlyReading) {
     return () => clearInterval(timer)
   }, [])
 
-  var ParthBirthDate = '2000-04-16'
-  var birthDate = new Date(ParthBirthDate)
+  var JulycrystalBirthDate = '2000-04-16'
+  var birthDate = new Date(JulycrystalBirthDate)
 
-  var ParthAge = year - birthDate.getFullYear()
+  var JulycrystalAge = year - birthDate.getFullYear()
 
-  var ParthMonth = 0
-  if (month >= birthDate.getMonth()) ParthMonth = month - birthDate.getMonth()
+  var JulycrystalMonth = 0
+  if (month >= birthDate.getMonth()) JulycrystalMonth = month - birthDate.getMonth()
   else {
-    ParthAge--
-    ParthMonth = 12 + month - birthDate.getMonth()
+    JulycrystalAge--
+    JulycrystalMonth = 12 + month - birthDate.getMonth()
   }
 
-  var ParthDay = 0
-  if (date >= birthDate.getDate()) ParthDay = date - birthDate.getDate()
+  var JulycrystalDay = 0
+  if (date >= birthDate.getDate()) JulycrystalDay = date - birthDate.getDate()
   else {
-    ParthMonth--
-    ParthDay = 31 + date - birthDate.getDate()
-    if (ParthMonth < 0) {
-      ParthMonth = 11
-      ParthAge--
+    JulycrystalMonth--
+    JulycrystalDay = 31 + date - birthDate.getDate()
+    if (JulycrystalMonth < 0) {
+      JulycrystalMonth = 11
+      JulycrystalAge--
     }
   }
 
   var age = {}
   age = {
-    years: ParthAge,
-    months: ParthMonth,
-    days: ParthDay,
+    years: JulycrystalAge,
+    months: JulycrystalMonth,
+    days: JulycrystalDay,
   }
 
   var ageString = ''

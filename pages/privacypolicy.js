@@ -465,20 +465,6 @@ export default function PrivacyPolicy() {
             You are advised to review this Privacy Policy periodically for any changes. Changes to
             this Privacy Policy are effective when they are posted on this page.
           </p>
-          <h1 className="dark:text-gray-300">Contact Us</h1>
-          <p>If you have any questions about this Privacy Policy, You can contact us:</p>
-          <ul>
-            <li>
-              By email:{' '}
-              <a
-                href="mailto:desaiparth2000@gmail.com"
-                rel="external nofollow noopener noreferrer"
-                target="_blank"
-              >
-                desaiparth2000@gmail.com
-              </a>
-            </li>
-          </ul>
         </div>
       </div>
     </>
