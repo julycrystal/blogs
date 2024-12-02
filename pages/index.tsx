@@ -1,3 +1,4 @@
+"use client";
 import dynamic from "next/dynamic";
 const Navigation = dynamic(() => import("../components/Navigation"));
 const Greetings = dynamic(() => import("../containers/Greetings"));
@@ -26,10 +27,6 @@ export default function Home({ githubProfileData }: { githubProfileData: any }) 
     </div>
   );
 }
-
-// Home.prototype = {
-//   githubProfileData: PropTypes.object.isRequired,
-// };
 
 export async function getStaticProps() {
   const githubProfileData: GithubUserType = await fetch(
