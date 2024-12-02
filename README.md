@@ -1,7 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/pycoder2000/blog/raw/master/public/static/images/logo.png" width="100" />
-</div>
-
 <h1 align="center">
   Personal Blog - <em>Mere Musings</em>
 </h1>
@@ -16,11 +12,11 @@
 
 <div align="center">
 
-<a href="https://musing.vercel.app/" target="blank" >![View Demo](https://img.shields.io/badge/-View%20Demo%20-orange?color=%23DE1D8D&style=for-the-badge)</a> <a href="https://github.com/pycoder2000/blog/issues/new?assignees=&labels=bug&template=bug_report.md&title=">![Report Bug](https://img.shields.io/badge/-Report%20Bug%20-orange?color=%23ee0701&style=for-the-badge)</a> <a href="https://github.com/pycoder2000/blog/issues/new?assignees=&labels=&template=feature_request.md&title=">![Request Feature](https://img.shields.io/badge/-Request%20Feature%20-orange?color=%230e8a16&style=for-the-badge)</a> <a href="https://github.com/pycoder2000/blog/fork">![Fork](https://img.shields.io/github/forks/pycoder2000/blog?color=%23bfe5bf&style=for-the-badge)</a> <img src="https://img.shields.io/github/stars/pycoder2000/blog?color=darkgreen&style=for-the-badge">
+<a href="https://musing.vercel.app/" target="blank" >![View Demo](https://img.shields.io/badge/-View%20Demo%20-orange?color=%23DE1D8D&style=for-the-badge)</a> <a href="https://github.com/julycrystal/blog/issues/new?assignees=&labels=bug&template=bug_report.md&title=">![Report Bug](https://img.shields.io/badge/-Report%20Bug%20-orange?color=%23ee0701&style=for-the-badge)</a> <a href="https://github.com/julycrystal/blog/issues/new?assignees=&labels=&template=feature_request.md&title=">![Request Feature](https://img.shields.io/badge/-Request%20Feature%20-orange?color=%230e8a16&style=for-the-badge)</a> <a href="https://github.com/julycrystal/blog/fork">![Fork](https://img.shields.io/github/forks/julycrystal/blog?color=%23bfe5bf&style=for-the-badge)</a> <img src="https://img.shields.io/github/stars/julycrystal/blog?color=darkgreen&style=for-the-badge">
 
 </div>
 
-![demo](https://github.com/pycoder2000/blog/raw/master/public/static/images/demo.png)
+![demo](https://github.com/julycrystal/blog/raw/master/public/static/images/demo.png)
 
 <div align="center">
 
@@ -162,7 +158,7 @@ Follow the interactive prompt to generate a post with pre-filled front matter.
 
 ## 📈 Stats
 
-<img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fmusings.vercel.app"> <img src="https://img.shields.io/github/repo-size/pycoder2000/blog?style=for-the-badge&color=darkgreen" /> <img src="https://img.shields.io/github/languages/top/pycoder2000/blog?style=for-the-badge" /> <img src="https://img.shields.io/github/commit-activity/m/pycoder2000/blog?style=for-the-badge&color=orange" /> <img src="https://img.shields.io/github/deployments/pycoder2000/blog/Preview%20–%20blog?style=for-the-badge" /> <a href="https://tech-blogs.dev" target="_blank" >![Featured on tech-blogs.dev](https://img.shields.io/badge/Featured-tech--blogs.dev-yellow?style=for-the-badge)</a> <a href="https://makeapullrequest.com" target="blank" >![PRs Welcome](https://img.shields.io/badge/PR-Welcome-brightgreen?style=for-the-badge)</a>
+<img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fmusings.vercel.app"> <img src="https://img.shields.io/github/repo-size/julycrystal/blog?style=for-the-badge&color=darkgreen" /> <img src="https://img.shields.io/github/languages/top/julycrystal/blog?style=for-the-badge" /> <img src="https://img.shields.io/github/commit-activity/m/julycrystal/blog?style=for-the-badge&color=orange" /> <img src="https://img.shields.io/github/deployments/julycrystal/blog/Preview%20–%20blog?style=for-the-badge" /> <a href="https://tech-blogs.dev" target="_blank" >![Featured on tech-blogs.dev](https://img.shields.io/badge/Featured-tech--blogs.dev-yellow?style=for-the-badge)</a> <a href="https://makeapullrequest.com" target="blank" >![PRs Welcome](https://img.shields.io/badge/PR-Welcome-brightgreen?style=for-the-badge)</a>
 
 ## 🪜 Project structure
 
@@ -191,7 +187,7 @@ Follow the interactive prompt to generate a post with pre-filled front matter.
 
 ## 📊 Google Lighthouse Performance Metrics
 
-![Google Lighthouse Performance Metrics](https://github.com/pycoder2000/blog/raw/master/public/static/images/Google%20Lighthouse%20Performance%20Metrics.png)
+![Google Lighthouse Performance Metrics](https://github.com/julycrystal/blog/raw/master/public/static/images/Google%20Lighthouse%20Performance%20Metrics.png)
 
 ## 🚀 Deploy
 
