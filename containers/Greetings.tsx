@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect } from "react";
 import { greetings } from "../portfolio";
 import { Button, Container, Row, Col } from "reactstrap";
