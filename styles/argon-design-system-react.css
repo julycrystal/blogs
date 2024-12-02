@@ -41,8 +41,8 @@
 	--gray-dark: #32325d;
 	--light: #ced4da;
 	--lighter: #e9ecef;
-	--primary: #5e72e4;
-	--secondary: #f4f5f7;
+	--primary: #5603ad;
+	--secondary: #5e72e4;
 	--success: #2dce89;
 	--info: #11cdef;
 	--warning: #fb6340;
@@ -18800,6 +18800,10 @@ p {
 
 .description {
 	font-size: 0.875rem;
+}
+
+.siteimage {
+	width: 100%;
 }
 
 .heading {

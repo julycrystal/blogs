@@ -12,6 +12,7 @@ const ProjectsCard = ({ name, desc, github, link }: ProjectType) => {
             <div className="pl-4">
               <h3>{name}</h3>
               <p className="description mt-3">{desc}</p>
+              <img src={`/sites/${name}.png`} alt={desc} className="siteimage my-3"></img>
               {github ? (
                 <Button
                   className="btn-icon"
@@ -38,7 +39,7 @@ const ProjectsCard = ({ name, desc, github, link }: ProjectType) => {
                   <span className="btn-inner--icon">
                     <i className="fa fa-arrow-right mr-2" />
                   </span>
-                  <span className="nav-link-inner--text ml-1">Demo</span>
+                  <span className="nav-link-inner--text ml-1">Visit</span>
                 </Button>
               ) : null}
             </div>

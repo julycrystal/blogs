@@ -31,11 +31,11 @@ export const socialLinks: SocialLinksType = {
 
 export const skillsSection: SkillsSectionType = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "SENIOR FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   data: [
     {
       title: "Full Stack Development",
-      lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "/lottie/skills/fullstack.json",
       skills: [
         emoji("⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"),
         emoji("⚡ Building responsive static websites using Next.js"),
@@ -86,23 +86,23 @@ export const skillsSection: SkillsSectionType = {
 export const SkillBars: SkillBarsType[] = [
   {
     Stack: "Frontend/Design", //Insert stack or technology you have experience in
-    progressPercentage: "85", //Insert relative proficiency in percentage
+    progressPercentage: "90", //Insert relative proficiency in percentage
   },
   {
     Stack: "Backend",
-    progressPercentage: "90",
+    progressPercentage: "85",
   },
   {
-    Stack: "Programming",
-    progressPercentage: "95",
+    Stack: "DevOps",
+    progressPercentage: "80",
   },
 ];
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: "University of Central Punjab",
+    schoolName: "University of Central Florida",
     subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2017 - April 2020",
+    duration: "September 2012 - April 2016",
     desc: "",
     grade: "Grade A",
     descBullets: [], // Array of Strings
@@ -123,10 +123,6 @@ export const experience: ExperienceType[] = [
     companyLogo: "/img/icons/common/duseca_software_logo.jpeg",
     date: "Jan 2022 - Sept 2023",
     desc: "Crafted robust mobile application backends employing Django, Python, and REST APIs. Leveraged Django REST Framework, PostgreSQL, AWS, Firebase, Stripe, and WebSocket for efficient development. Collaborated across teams to surpass client expectations. Designed intuitive UIs, empowering clients to effortlessly manage their applications with a visually captivating interface.",
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
   },
   {
     role: "Full Stack Developer",
@@ -139,32 +135,31 @@ export const experience: ExperienceType[] = [
     role: "Backend Developer",
     company: "Bleed-AI",
     companyLogo: "/img/icons/common/bleedAI.jpg",
-    date: "Sept 2021 - Oct 2021",
+    date: "Sept 2016 - Oct 2021",
     desc: "As a Django developer at Bleed AI, I integrated a computer vision AI model to process YouTube URLs on a website. I used Django Channels and Websockets to show real-time processing and implemented threading to run multiple instances of the AI model. I also used jQuery for UI rendering and deployed the website on a Heroku server.",
   },
 ];
 
 export const projects: ProjectType[] = [
   {
-    name: "developer-portfolio",
-    desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-    github: "https://github.com/julycrystal/developer-portfolio",
-    link: "https://developer-portfolio-julycrystal.vercel.app/",
+    name: "Rouvy Eshop",
+    desc: "Enhanced the site's navigation with improved filters and sorting options, redesigned the checkout process for ease and security, and integrated dynamic promotion tools to attract new customers and reward loyalty.",
+    link: "https://eshop.rouvy.com/",
   },
   {
-    name: "Giebo",
-    desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
-    link: "https://gibeo.io/",
+    name: "Trillium Engineering LLC",
+    desc: "eveloped customized Odoo solutions for Trillium Engineering LLC, optimizing product showcase pages with detailed specifications and visuals, integrating a robust content management system for efficient updates, and conducting performance improvements for enhanced loading speeds and user experience across devices.",
+    link: "https://www.trilliumeng.com/",
   },
   {
-    name: "O Mejor Oferta",
-    desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
-    link: "https://play.google.com/store/apps/details?id=com.duseca.mejor_oferta",
+    name: "iDataTech",
+    desc: "Designed and implemented automated inventory management systems, bespoke e-commerce platforms with payment integration, customizable reporting tools, multi-channel integration with Odoo, workflow automation for increased efficiency, and localized solutions to meet regulatory requirements in diverse markets.",
+    link: "https://www.i-datatech.com/",
   },
   {
-    name: "Hooligan Culture",
-    desc: "A Ecommerce Platform, where shopping meets the future! With HandCash BitcoinSV integration, you can authenticate and purchase products with ease and confidence.",
-    link: "https://hooliganculture.com/",
+    name: "Blue Robotics",
+    desc: "Implemented strategic SEO enhancements to improve search rankings, ensured mobile-friendly responsive design for seamless access on various devices, and integrated live chat features to enhance customer support and satisfaction.",
+    link: "https://bluerobotics.com/",
   },
 ];
 
@@ -194,7 +189,6 @@ export const seoData: SEODataType = {
   title: "Julycrystal",
   description: greetings.description,
   author: "Julycrystal",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
   url: "https://developer-portfolio-julycrystal.vercel.app",
   keywords: [
     "Julycrystal",
