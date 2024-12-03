@@ -12,8 +12,8 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Julycrystal",
-  title: "Hi all, I'm Julycrystal",
+  name: "Richard Pope",
+  title: "Hi all, I'm Richard Pope",
   description:
     "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
